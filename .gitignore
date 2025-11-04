@@ -1,0 +1,15 @@
+/target/
+Cargo.lock
+
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+.DS_Store
+
+*.so
+*.dylib
+*.dll
+*.exe

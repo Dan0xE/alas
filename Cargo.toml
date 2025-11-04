@@ -1,0 +1,8 @@
+[package]
+name = "nu_plugin_alas"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+nu-plugin = "0.108"
+nu-protocol = "0.108"
